@@ -1,0 +1,16 @@
+[StartTime]
+frontrightv5-FEA1 - Braking.MFC=26s
+[SolverState]
+frontrightv5-FEA1 - Braking.MFC=2
+[MainFrame]
+frontrightv5-FEA1 - Braking.MFC=MCAAAAAAAAAAAAAABAAAAAAAPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPMECAAAAAHEBAAAAAELDAAAAAKBCAAAAA
+[ShowMin]
+frontrightv5-FEA1 - Braking.MFC=No
+[SolverType]
+frontrightv5-FEA1 - Braking.MFC=Linear Analysis
+[StudyType]
+frontrightv5-FEA1 - Braking.MFC=0
+[StudyName]
+frontrightv5-FEA1 - Braking.MFC=FEA1 - Braking
+[Solver]
+frontrightv5-FEA1 - Braking.MFC=Iterative
