@@ -107,3 +107,19 @@ feaassem v3.3-Clevis FEA - braking.OUT
 feaassem v3.3-Clevis FEA - braking.SL4
 feaassem v3.3-Clevis FEA - braking.STE
 feaassem v3.3-Clevis FEA - braking.STG
+*.BD2
+feaassem v3.3-Clevis FEA - cornering.BDF
+feaassem v3.3-Clevis FEA - cornering.BMC
+feaassem v3.3-Clevis FEA - cornering.CNT
+feaassem v3.3-Clevis FEA - cornering.CWR
+feaassem v3.3-Clevis FEA - cornering.DSP
+feaassem v3.3-Clevis FEA - cornering.ELF
+feaassem v3.3-Clevis FEA - cornering.IDA
+feaassem v3.3-Clevis FEA - cornering.LCD
+feaassem v3.3-Clevis FEA - cornering.LDS
+feaassem v3.3-Clevis FEA - cornering.LOG
+feaassem v3.3-Clevis FEA - cornering.MFC
+feaassem v3.3-Clevis FEA - cornering.OUT
+feaassem v3.3-Clevis FEA - cornering.SL4
+feaassem v3.3-Clevis FEA - cornering.STE
+feaassem v3.3-Clevis FEA - cornering.STG
