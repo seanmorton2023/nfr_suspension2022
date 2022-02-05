@@ -1,169 +1,18 @@
-
-front_right_upright_v3.2-FEA1- braking.BMC
-front_right_upright_v3.2-FEA1- braking.CNT
-front_right_upright_v3.2-FEA1- braking.CWR
-front_right_upright_v3.2-FEA1- braking.DSP
-front_right_upright_v3.2-FEA1- braking.ELF
-front_right_upright_v3.2-FEA1- braking.GEN
-front_right_upright_v3.2-FEA1- braking.IDA
-front_right_upright_v3.2-FEA1- braking.LCD
-front_right_upright_v3.2-FEA1- braking.LDS
-front_right_upright_v3.2-FEA1- braking.LOG
-front_right_upright_v3.2-FEA1- braking.MAS
-front_right_upright_v3.2-FEA1- braking.MFC
-front_right_upright_v3.2-FEA1- braking.OUT
-front_right_upright_v3.2-FEA1- braking.SL4
-front_right_upright_v3.2-FEA1- braking.STE
-front_right_upright_v3.2-FEA1- braking.STG
-front_right_upright_v3.2-FEA2 - accel.BMC
-front_right_upright_v3.2-FEA2 - accel.CNT
-front_right_upright_v3.2-FEA2 - accel.CWR
-front_right_upright_v3.2-FEA2 - accel.DSP
-front_right_upright_v3.2-FEA2 - accel.ELF
-front_right_upright_v3.2-FEA2 - accel.GEN
-front_right_upright_v3.2-FEA2 - accel.IDA
-front_right_upright_v3.2-FEA2 - accel.LCD
-front_right_upright_v3.2-FEA2 - accel.LDS
-front_right_upright_v3.2-FEA2 - accel.LOG
-front_right_upright_v3.2-FEA2 - accel.MAS
-front_right_upright_v3.2-FEA2 - accel.MFC
-front_right_upright_v3.2-FEA2 - accel.OUT
-front_right_upright_v3.2-FEA2 - accel.SL4
-front_right_upright_v3.2-FEA2 - accel.STE
-front_right_upright_v3.2-FEA2 - accel.STG
-front_right_upright_v3.2-FEA3 - corner.BMC
-front_right_upright_v3.2-FEA3 - corner.CNT
-front_right_upright_v3.2-FEA3 - corner.CWR
-front_right_upright_v3.2-FEA3 - corner.DSP
-front_right_upright_v3.2-FEA3 - corner.ELF
-front_right_upright_v3.2-FEA3 - corner.GEN
-front_right_upright_v3.2-FEA3 - corner.IDA
-front_right_upright_v3.2-FEA3 - corner.LCD
-front_right_upright_v3.2-FEA3 - corner.LDS
-front_right_upright_v3.2-FEA3 - corner.LOG
-front_right_upright_v3.2-FEA3 - corner.MAS
-front_right_upright_v3.2-FEA3 - corner.MFC
-front_right_upright_v3.2-FEA3 - corner.OUT
-front_right_upright_v3.2-FEA3 - corner.SL4
-front_right_upright_v3.2-FEA3 - corner.STE
-front_right_upright_v3.2-FEA3 - corner.STG
-feaassem-Clevis FEA - braking.BD2
-feaassem-Clevis FEA - braking.BDF
-feaassem-Clevis FEA - braking.BMC
-feaassem-Clevis FEA - braking.CNT
-feaassem-Clevis FEA - braking.CWR
-feaassem-Clevis FEA - braking.DSP
-feaassem-Clevis FEA - braking.ELF
-feaassem-Clevis FEA - braking.GEN
-feaassem-Clevis FEA - braking.IDA
-feaassem-Clevis FEA - braking.LCD
-feaassem-Clevis FEA - braking.LDS
-feaassem-Clevis FEA - braking.LOG
-feaassem-Clevis FEA - braking.MAS
-feaassem-Clevis FEA - braking.MFC
-feaassem-Clevis FEA - braking.OUT
-feaassem-Clevis FEA - braking.SL4
-feaassem-Clevis FEA - braking.STE
-feaassem-Clevis FEA - braking.STG
-feaassem-Clevis FEA - cornering.BD2
-feaassem-Clevis FEA - cornering.BDF
-feaassem-Clevis FEA - cornering.CNT
-feaassem-Clevis FEA - cornering.CWR
-feaassem-Clevis FEA - cornering.DSP
-feaassem-Clevis FEA - cornering.ELF
-feaassem-Clevis FEA - cornering.GEN
-feaassem-Clevis FEA - cornering.IDA
-feaassem-Clevis FEA - cornering.LDS
-feaassem-Clevis FEA - cornering.LOG
-feaassem-Clevis FEA - cornering.MAS
-feaassem-Clevis FEA - cornering.MFC
-feaassem-Clevis FEA - cornering.OUT
-feaassem-Clevis FEA - cornering.SL4
-feaassem-Clevis FEA - cornering.STG
-feaassem-Static 2 from [Clevis FEA - braking].GEN
-feaassem-Static 2 from [Clevis FEA - braking].MAS
-feaassem-Static 2 from [Clevis FEA - braking].GEN
-feaassem-Static 2 from [Clevis FEA - braking].MAS
-feaassem-Static 2 from [Clevis FEA - braking].GEN
-feaassem-Static 2 from [Clevis FEA - braking].MAS
-feaassem-Static 2 from [Clevis FEA - braking].GEN
-feaassem-Static 2 from [Clevis FEA - braking].MAS
-feaassem-Static 2 from [Clevis FEA - braking].GEN
 *.MAS
 *.GEN
-feaassem v3.3-Clevis FEA - braking.BD2
-feaassem v3.3-Clevis FEA - braking.BDF
-feaassem v3.3-Clevis FEA - braking.BMC
-feaassem v3.3-Clevis FEA - braking.CNT
-feaassem v3.3-Clevis FEA - braking.CWR
-feaassem v3.3-Clevis FEA - braking.DSP
-feaassem v3.3-Clevis FEA - braking.ELF
-feaassem v3.3-Clevis FEA - braking.IDA
-feaassem v3.3-Clevis FEA - braking.LCD
-feaassem v3.3-Clevis FEA - braking.LDS
-feaassem v3.3-Clevis FEA - braking.LOG
-feaassem v3.3-Clevis FEA - braking.MFC
-feaassem v3.3-Clevis FEA - braking.OUT
-feaassem v3.3-Clevis FEA - braking.SL4
-feaassem v3.3-Clevis FEA - braking.STE
-feaassem v3.3-Clevis FEA - braking.STG
 *.BD2
-feaassem v3.3-Clevis FEA - cornering.BDF
-feaassem v3.3-Clevis FEA - cornering.BMC
-feaassem v3.3-Clevis FEA - cornering.CNT
-feaassem v3.3-Clevis FEA - cornering.CWR
-feaassem v3.3-Clevis FEA - cornering.DSP
-feaassem v3.3-Clevis FEA - cornering.ELF
-feaassem v3.3-Clevis FEA - cornering.IDA
-feaassem v3.3-Clevis FEA - cornering.LCD
-feaassem v3.3-Clevis FEA - cornering.LDS
-feaassem v3.3-Clevis FEA - cornering.LOG
-feaassem v3.3-Clevis FEA - cornering.MFC
-feaassem v3.3-Clevis FEA - cornering.OUT
-feaassem v3.3-Clevis FEA - cornering.SL4
-feaassem v3.3-Clevis FEA - cornering.STE
-feaassem v3.3-Clevis FEA - cornering.STG
-front_right_upright_v3.3-FEA1- braking.BMC
-front_right_upright_v3.3-FEA1- braking.CNT
-front_right_upright_v3.3-FEA1- braking.CWR
-front_right_upright_v3.3-FEA1- braking.DSP
-front_right_upright_v3.3-FEA1- braking.ELF
-front_right_upright_v3.3-FEA1- braking.IDA
-front_right_upright_v3.3-FEA1- braking.LCD
-front_right_upright_v3.3-FEA1- braking.LDS
-front_right_upright_v3.3-FEA1- braking.LOG
-front_right_upright_v3.3-FEA1- braking.MFC
-front_right_upright_v3.3-FEA1- braking.OUT
-front_right_upright_v3.3-FEA1- braking.SL4
-front_right_upright_v3.3-FEA1- braking.STE
-front_right_upright_v3.3-FEA1- braking.STG
-feaassem v3.3.2-Clevis FEA - cornering.STG
-feaassem v3.3.2-Clevis FEA - cornering.STE
-feaassem v3.3.2-Clevis FEA - cornering.SL4
-feaassem v3.3.2-Clevis FEA - cornering.OUT
-feaassem v3.3.2-Clevis FEA - cornering.MFC
-feaassem v3.3.2-Clevis FEA - cornering.LOG
-feaassem v3.3.2-Clevis FEA - cornering.LDS
-feaassem v3.3.2-Clevis FEA - cornering.LCD
-feaassem v3.3.2-Clevis FEA - cornering.IDA
-feaassem v3.3.2-Clevis FEA - cornering.ELF
-feaassem v3.3.2-Clevis FEA - cornering.DSP
-feaassem v3.3.2-Clevis FEA - cornering.CWR
-feaassem v3.3.2-Clevis FEA - cornering.CNT
-feaassem v3.3.2-Clevis FEA - cornering.BMC
-feaassem v3.3.2-Clevis FEA - cornering.BDF
-feaassem v3.3.2-Clevis FEA - braking.STG
-feaassem v3.3.2-Clevis FEA - braking.STE
-feaassem v3.3.2-Clevis FEA - braking.SL4
-feaassem v3.3.2-Clevis FEA - braking.OUT
-feaassem v3.3.2-Clevis FEA - braking.MFC
-feaassem v3.3.2-Clevis FEA - braking.LOG
-feaassem v3.3.2-Clevis FEA - braking.LDS
-feaassem v3.3.2-Clevis FEA - braking.LCD
-feaassem v3.3.2-Clevis FEA - braking.IDA
-feaassem v3.3.2-Clevis FEA - braking.ELF
-feaassem v3.3.2-Clevis FEA - braking.DSP
-feaassem v3.3.2-Clevis FEA - braking.CWR
-feaassem v3.3.2-Clevis FEA - braking.CNT
-feaassem v3.3.2-Clevis FEA - braking.BMC
-feaassem v3.3.2-Clevis FEA - braking.BDF
+*.BDF
+*.BMC
+*.CNT
+*.CWR
+*.DSP
+*.LCD
+*.LDS
+*.ELF
+*.IDA
+*.LOG
+*.MFC
+*.OUT
+*.SL4
+*.STE
+*.STG
